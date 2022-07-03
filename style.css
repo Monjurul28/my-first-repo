@@ -13,4 +13,6 @@ h1{
 #image{
     height: 50%;
     width: 90%;
+    padding-left: 30px;
+    padding-bottom: 30px;
 }
